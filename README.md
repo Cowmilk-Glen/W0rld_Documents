@@ -1,10 +1,15 @@
 # W0rld_Documents
 
-# Glenville Pecor: Engineer / Designer / Sound Programmer
-# Christopher Torrecampo: Engineer / Designer / Project Manager
-# Alonzo James Artuz: Engineer / Designer 
-# Judith Carpio: Art / Designer  
-# Cassidy Robideaux: Sounds 
+# Credit
+Glenville Pecor: Engineer / Designer / Sound Programmer
+
+Christopher Torrecampo: Engineer / Designer / Project Manager
+
+Alonzo James Artuz: Engineer / Designer 
+
+Judith Carpio: Art / Designer  
+
+Cassidy Robideaux: Sounds 
 
 
 Documents for the game W0rld
