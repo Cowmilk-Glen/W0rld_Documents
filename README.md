@@ -1,5 +1,3 @@
-# W0rld_Documents
-
 # Credit
 Glenville Pecor: Engineer / Designer / Sound Programmer
 
@@ -11,10 +9,9 @@ Judith Carpio: Art / Designer
 
 Cassidy Robideaux: Sounds 
 
-
+# W0rld_Documents
 Documents for the game W0rld
 W0rld is a game created in UE4 by using UE4 Node Programming 
-
 
 In this repository you will see a GDD and a demo / presentation, with a mini cheat sheet to the game W0rld.
 
