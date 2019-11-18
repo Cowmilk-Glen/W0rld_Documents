@@ -17,6 +17,8 @@ In this repository you will see a GDD and a demo / presentation, with a mini che
 
 Keep in mind that this is a Vertical Slice of a game. 
 
+Youtube link of all pushes: https://www.youtube.com/watch?v=KuCTpFMqMwg&feature=youtu.be 
+
 
 
 # Known Bugs in the game (v1.0.0)
